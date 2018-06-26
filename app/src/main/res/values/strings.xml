@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Radio App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text1">It\'s Friday evening</string>
+    <string name="text2">Play Something...</string>
+    <string name="text3">Recent Activity</string>
+    <string name="text4">Recently opened or played</string>
+    <string name="text5">Favorites</string>
+    <string name="text6">Most played</string>
+</resources>
